@@ -3,5 +3,5 @@ public void login(){
 }
 
 public void logout(){
-  System.out.println("logout登出");
+  System.out.println("logout登出fail");
 }
