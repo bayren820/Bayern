@@ -1,7 +1,7 @@
 public void login(){
-  System.out.println("login登录success111");
+  System.out.println("login登录successxxx");
 }
 
 public void logout(){
-  System.out.println("logout登出fail222");
+  System.out.println("logout登出failyyy");
 }
