@@ -1,7 +1,7 @@
 public void login(){
-  System.out.println("loginµÇÂ¼");
+  System.out.println("loginç™»å½•");
 }
 
 public void logout(){
-  System.out.println("logoutµÇ³ö");
+  System.out.println("logoutç™»å‡º");
 }
