@@ -7,5 +7,5 @@ spring:
     username: root
     password: 123456
 favorite:
-  color: red
+  color: purple
 env: dev
