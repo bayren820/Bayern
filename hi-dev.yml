@@ -1,11 +1,14 @@
 server:
   port: 8762
+
 spring:
-  datasource:
-    driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.10.238:3306/gs_test?useUnicode=true&characterEncoding=utf-8&useSSL=false
-    username: root
-    password: 123456
+  application:
+    name: service-hi
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
 favorite:
   color: green
-env: dev
