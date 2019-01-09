@@ -2,4 +2,4 @@ server:
   port: 8762
 
 favorite:
-  color: green
+  color: purple
